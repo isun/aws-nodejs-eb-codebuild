@@ -10,3 +10,6 @@
 
 # Application Zip file bundle
 *.zip
+
+# node_module
+node_modules/*
